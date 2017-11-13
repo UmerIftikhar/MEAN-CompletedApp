@@ -1,0 +1,37 @@
+/node_modules
+/data
+/.c9
+mongod
+
+# compiled output
+/testapp/dist
+/testapp/tmp
+
+# dependencies
+/testapp/node_modules
+/testapp/bower_components
+
+# IDEs and editors
+/testapp/.idea
+/testapp/.project
+/testapp/.classpath
+/testapp/*.launch
+/testapp/.settings/
+
+# misc
+/testapp/._gitignore_no
+/testapp/.sass-cache
+/testapp/connect.lock
+/testapp/coverage/*
+/testapp/libpeerconnection.log
+/testapp/npm-debug.log
+/testapp/testem.log
+/testapp/typings
+
+# e2e
+/testapp/e2e/*.js
+/testapp/e2e/*.map
+
+#System Files
+/testapp.DS_Store
+/testappThumbs.db
